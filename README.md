@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [@HappyDesk] (https://github.com/happydesk)
+- 🔭 I’m currently working on [@HappyDesk](https://github.com/happydesk)
 - 🌱 I’m currently learning JS & PHP
-- 📫 How to reach me at imon@happydesk.net
+- 📫 How to reach me at [Imon](mailto:imon@happydesk.net)
 - ⚡ Still Learning
 
 **Focused Languages**  

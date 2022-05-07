@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://laravel.com/img/favicon/favicon.ico"></code>
 <code><img height="20" src="https://www.wappalyzer.com/images/icons/React.png"></code> 
 <code><img height="20" src="https://www.wappalyzer.com/images/icons/vue.svg"></code> 
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/174/174854.png"></code> 
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code> 
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code> 
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code> 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImonAwesome&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->

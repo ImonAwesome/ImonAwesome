@@ -1,6 +1,6 @@
 ### Hello There, It's 1m0n 👋
 
-Here are some ideas to get you started:
+Here are some details about me:
 
 - 🔭 I’m currently working on [@HappyDesk](https://github.com/happydesk)
 - 🌱 I’m currently learning JS & PHP

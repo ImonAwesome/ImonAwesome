@@ -23,4 +23,4 @@ Here are some details about me:
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code> 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>  -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImonAwesome&theme=highcontrast&hide_border=true&background=22272E)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImonAwesome&theme=highcontrast&hide_border=true&background=22272E)](https://github.com/ImonAwesome)

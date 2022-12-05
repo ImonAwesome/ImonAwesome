@@ -7,7 +7,7 @@ Here are some details about me:
 - 📫 How to reach me at [Imon](mailto:imon@happydesk.net)
 - ⚡ Still Learning
 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devimon/)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/WizardImon/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/WizardImon)
 <img height="30" src="https://img.shields.io/badge/Goal%20Achived-1%25-brightgreen" />
 

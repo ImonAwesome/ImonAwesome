@@ -4,7 +4,7 @@ Here are some details about me:
 
 - 🔭 I’m currently working on [@HappyDesk](https://github.com/happydesk)
 - 💝 I love PHP, `(Most Hated by JS Noobs)`
-- 📫 How to reach me at [Imon](mailto:imon@happydesk.net)
+- 📫 Reach me at [Imon](mailto:imon@happydesk.net)
 - ⚡ Still Learning
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/WizardImon/)

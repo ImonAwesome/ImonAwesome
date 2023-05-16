@@ -9,7 +9,7 @@ Here are some details about me:
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/WizardImon/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/WizardImon)
-<img height="30" src="https://img.shields.io/badge/Goal%20Achived-1%25-brightgreen" />
+<img height="30" src="https://img.shields.io/badge/Goal%20Achived-3%25-brightgreen" />
 
 
 <!-- **Focused Languages**  
